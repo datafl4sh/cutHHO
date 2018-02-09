@@ -1,5 +1,15 @@
 # Unfitted HHO
 
+
+** /!\ /!\  THIS REPO IS DEPRECATED /!\ /!\ **
+
+Since I was implementing also other stuff than cutHHO, this code become the [ProtoN library](https://github.com/datafl4sh/ProtoN).
+
+
+
+
+
+
 ## What is this
 
 This is a prototype for the Unfitted HHO method (see [this paper](https://hal.archives-ouvertes.fr/hal-01625421)).
